@@ -1,0 +1,3 @@
+DAY 1 DATA QUALITY SUMMARY
+Schemes in fund_master: 40
+All codes matched in nav_history: True
