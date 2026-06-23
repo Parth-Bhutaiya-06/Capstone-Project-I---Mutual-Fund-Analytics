@@ -1,3 +1,16 @@
-DAY 1 DATA QUALITY SUMMARY
-Schemes in fund_master: 40
-All codes matched in nav_history: True
+
+Day 1 Data Quality Summary
+==========================
+
+Datasets Loaded: 10
+Total Null Values: 12
+Total Duplicate Rows: 0
+
+Fund Master Codes: 40
+NAV History Codes: 40
+Missing AMFI Codes: 0
+
+Conclusion:
+All datasets were loaded and inspected successfully.
+AMFI code validation completed.
+Further cleaning will be performed during data transformation.
