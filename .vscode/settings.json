@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/d:\\New folder\\mf_analysis\\report.aux": true,
+        "**/d:\\New folder\\mf_analysis\\report.log": true,
+        "**/d:\\New folder\\mf_analysis\\report.gz": true,
+        "**/d:\\New folder\\mf_analysis\\report.out": true
+    }
+}
